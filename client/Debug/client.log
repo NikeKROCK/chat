@@ -1,0 +1,2 @@
+﻿  client.cpp
+D:\codes\client\client.cpp(35,10): error C3861: inet_pton: идентификатор не найден
